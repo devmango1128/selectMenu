@@ -5,14 +5,21 @@
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <meta http-equiv="Cache-Control" content="no-cache">
     <meta charset="utf-8">
-    <title>오늘은 뭐먹지?</title>
+    <title>오늘은 뭐 먹지?</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link href="src/css/common.css" rel="stylesheet" />
 </head>
 <body>
-    <div>아침</div>
-    <div>점심</div>
-    <div>저녁</div>
-    <div>야식</div>
+    <div id="container">
+        <header class="title">
+            오늘은 뭐 먹지?
+        </header>
+        <div class="content">
+            <div class="menu" id="menu"></div>
+            <div class="by" id="by"></div>
+            <div class="btn_white_m" id="start_btn" onclick="SELECT_MENU.fn_select_menu()">골라줘</div>
+        </div>
+    </div>
 </body>
+<script src="src/js/common.js"></script>
 </html>
