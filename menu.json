@@ -436,4 +436,179 @@
 ,{"category": "B" ,"menuName" : "치즈프라이", "by" : "쉐이크쉑"}
 ,{"category": "B" ,"menuName" : "프라이", "by" : "쉐이크쉑"}
 ,{"category": "B" ,"menuName" : "핫도그", "by" : "쉐이크쉑"}
+,{"category": "S" ,"menuName" : "죠스떡볶이", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "실속세트", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "죠스찰순대", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "트윈세트", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "부산어묵", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "떡킨세트", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "떡킨2세트", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "짜장떡볶이세트", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "트윈세트", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "스페셜세트", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "패밀리세트", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "치즈세트", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "순살치킨", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "순살치킨(촉촉양념)", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "짜빠떡볶이", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "치즈떡볶이", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "수제튀김", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "유부주머니", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "범벅만두", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "바싹촉촉만두", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "오징어튀김", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "새우튀김", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "고추튀김", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "김말이튀김", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "고구마튀김", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "어묵튀김", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "야끼만두", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "로제크림떡볶이", "by" : "죠스떡볶이"}
+,{"category": "S" ,"menuName" : "쌀떡볶이", "by" : "분식집"}
+,{"category": "S" ,"menuName" : "밀떡볶이", "by" : "분식집"}
+,{"category": "S" ,"menuName" : "밀떡볶이", "by" : "분식집"}
+,{"category": "S" ,"menuName" : "떡순범벅", "by" : "분식집"}
+,{"category": "S" ,"menuName" : "떡순튀범벅", "by" : "분식집"}
+,{"category": "S" ,"menuName" : "순대튀김", "by" : "분식집"}
+,{"category": "S" ,"menuName" : "엽기메뉴", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "마라떡볶이", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "실속세트", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "로제메뉴", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "꿔바로우", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "베스트세트", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "스페셜세트", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "닭발세트", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "엽기무뼈닭발", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "엽기국물닭발", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "엽기오돌뺘", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "엽기오돌뼈밥", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "참치마요밥", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "주먹김밥", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "계란찜", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "계란야채죽", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "오뎅탕", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "순대", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "오뎅튀김", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "오징어튀김", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "모둠튀김", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "김말이", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "야채튀김", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "만두", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "엽봉", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "바삭치즈만두", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "엽도그", "by" : "동대문엽기떡볶이"}
+,{"category": "S" ,"menuName" : "명랑 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "감자통모짜 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "점보 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "감자 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "통모짜 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "팥 핫붕", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "핫붕", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "치즈 핫붕", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "슈 핫붕", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "팥치즈 핫붕", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "피자 핫붕", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "명랑이네 떡볶이 세트", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "로제 떡볶이", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "떡볶이", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "핫볶이 세트", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "로제 핫볶이 세트", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "인기폭탄 세트", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "딜리버리 세트", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "치즈폭탄 세트", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "명량한 세트", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "설탕꽈배기", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "설탕꽈배기 세트", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "명랑이네 점보핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "명랑이네 감자핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "크림치즈핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "라면맵땅 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "감자통모짜", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "고구마통모짜", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "통모짜 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "모짜맵구마", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "감자핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "모짜체다 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "반반모짜 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "체다치즈 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "점보 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "할라피뇨 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "맵반모짜 핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "트리플x치즈핫도그", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "쫀달치즈볼", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "만두튀김", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "불닭치즈소떡", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "맛감자", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "양념감자튀김", "by" : "명랑핫도그"}
+,{"category": "S" ,"menuName" : "라밥 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "라밥 샐러드 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "묵은지 참치 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "소불고기샐러드 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "소고기 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "라밥 샐러드 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "에그마니 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "돈까스 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "치즈 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "참치 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "튀긴오뎅 김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "스팸계란 꼬마김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "스팸계란 꼬마김밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "참치주먹밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "참치김치주먹밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "왕돈까스", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "수제등심돈까스", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "떡볶이+튀김", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "순대범벅떡볶이", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "쫄면", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "국산돼지고기 김치찌개", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "순두부찌개", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "된장찌개", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "치킨마요덮밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "스팸마요덮밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "오징어덮밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "제육덮밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "새우계란덮밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "김치볶음밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "통스팸 김치볶음밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "소시지 김치볶음밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "야채 비빔밥", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "왕돈까스 오므라이스", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "소시지 오므라이스", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "라밥(라면+밥)", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "라면", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "치즈 라면", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "떡 라면", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "계란 2개 라면", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "콩나물 해장 라면", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "치즈 계란 짜파게티", "by" : "라밥"}
+,{"category": "S" ,"menuName" : "치즈불닭쫄면", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "김치말이국수", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "냉소바", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "유부우동", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "야채튀김우동", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "왕새우튀김우동", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "볶음우동", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "해물짬뽕라면", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "떡만두국", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "모듬오뎅", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "돼지김치찜", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "김치불고기비빔밥", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "김치가츠동", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "등심돈까스", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "치즈돈까스", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "육개장", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "부대찌개", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "오므라이스", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "치즈스팸김치볶음밥", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "비빔밥", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "제육덮밥", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "낙지덮밥", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "소불고기덮밥", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "커리덮밥", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "스팸옛날도시락", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "닭갈비덮밥", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "해물볶음밥", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "갈비만두", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "커리덮밥", "by" : "김가네"}
+,{"category": "S" ,"menuName" : "소떡소떡", "by" : "김가네"}
 ]
