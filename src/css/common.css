@@ -24,7 +24,7 @@ body {
 .content {
     max-height: 120px;
     display: inline-block;
-    margin-top: 180px;
+    margin-top: 120px;
 }
 
 .btn_white_m {
@@ -34,7 +34,7 @@ body {
     width: 100px;
     border-radius: 10px;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 100px;
 }
 
 .btn_white_m:active {
