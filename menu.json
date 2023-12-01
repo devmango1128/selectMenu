@@ -1,4 +1,31 @@
-[{"category": "Y" ,"menuName" : "몬스터와퍼세트", "by" : "버거킹"}, {"category": "Y" ,"menuName" : "통새우와퍼세트", "by" : "버거킹"}, {"category": "Y" ,"menuName" : "콰트로와퍼세트", "by" : "버거킹"},{"category": "Y" ,"menuName" : "블랙바비큐콰트로치즈와퍼세트", "by" : "버거킹"},{"category": "Y" ,"menuName" : "갈릭불고기와퍼세트", "by" : "버거킹"}
-,{"category": "B" ,"menuName" : "엽기메뉴", "by" : "동대문엽기떡볶이"},{"category": "B" ,"menuName" : "엽기닭볶음탕", "by" : "동대문엽기떡볶이"},{"category": "B" ,"menuName" : "엽기메뉴", "by" : "동대문엽기떡볶이"},{"category": "B" ,"menuName" : "계란야채죽", "by" : "동대문엽기떡볶이"},
-  {"category": "B" ,"menuName" : "팬케이크", "by" : ""}, {"category": "B" ,"menuName" : "순대", "by" : ""}, {"category": "P" ,"menuName" : "새우피자", "by" : ""}, {"category": "H" ,"menuName" : "굴비정식", "by" : ""}
+[
+{"category": "Y" ,"menuName" : "몬스터와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "통새우와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "콰트로와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "블랙바비큐콰트로치즈와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "불고기와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "바삭킹2조각", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "큐브스테이크와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "스파이시큐브스테이크와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "불양양맥시멈3세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "블양양맥시멈4세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "블랙바비큐콰트로치즈와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "갈릭불고기와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "블랙바비큐와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "몬스터와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "치즈와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "와퍼세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "통새우와퍼주니어세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "콰트로치즈와퍼주니어세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "치즈와퍼주니어세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "와퍼주니어세트", "by" : "버거킹"}
+,{"category": "Y" ,"menuName" : "불고기와퍼주니어세트", "by" : "버거킹"}
+,{"category": "B" ,"menuName" : "엽기메뉴", "by" : "동대문엽기떡볶이"}
+,{"category": "B" ,"menuName" : "엽기닭볶음탕", "by" : "동대문엽기떡볶이"}
+,{"category": "B" ,"menuName" : "엽기메뉴", "by" : "동대문엽기떡볶이"}
+,{"category": "B" ,"menuName" : "계란야채죽", "by" : "동대문엽기떡볶이"}
+,{"category": "B" ,"menuName" : "팬케이크", "by" : ""}
+,{"category": "B" ,"menuName" : "순대", "by" : ""}
+,{"category": "P" ,"menuName" : "새우피자", "by" : ""}
+,{"category": "H" ,"menuName" : "굴비정식", "by" : ""}
 ]
