@@ -14,7 +14,6 @@ let SELECT_MENU = {
 
             _this.menuData = response;
 
-            console.log(_this.menuData);
             const menu = _this.extractRandomData(_this.menuData);
             document.getElementById('menu').innerText = menu.menuName;
 
@@ -36,7 +35,6 @@ let SELECT_MENU = {
    // 데이터 로드 및 무작위 추출 함수
    extractRandomData : function (data) {
       let randomIndex = Math.floor(Math.random() * data.length);
-      console.log(data[randomIndex]);
       return data[randomIndex];
    }
 }
