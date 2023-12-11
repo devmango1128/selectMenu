@@ -1,33 +1,40 @@
 
 [{"category": "B" ,"menuName" : "몬스터와퍼세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "통새우와퍼세트", "by" : "버거킹"}
+,{"category": "P" ,"menuName" : "시메사바(고등어초절임)", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "콰트로와퍼세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "블랙바비큐콰트로치즈와퍼세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "불고기와퍼세트", "by" : "버거킹"}
+,{"category": "P" ,"menuName" : "모츠나베", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "바삭킹2조각", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "큐브스테이크와퍼세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "스파이시큐브스테이크와퍼세트", "by" : "버거킹"}
+,{"category": "P" ,"menuName" : "우니+큐타다키", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "불양양맥시멈3세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "블양양맥시멈4세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "블랙바비큐콰트로치즈와퍼세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "갈릭불고기와퍼세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "블랙바비큐와퍼세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "몬스터와퍼세트", "by" : "버거킹"}
+,{"category": "P" ,"menuName" : "소고기타타키", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "치즈와퍼세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "와퍼세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "통새우와퍼주니어세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "콰트로치즈와퍼주니어세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "치즈와퍼주니어세트", "by" : "버거킹"}
+,{"category": "P" ,"menuName" : "스키야키", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "와퍼주니어세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "불고기와퍼주니어세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "더블비프불고기버거세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "치킨킹세트", "by" : "버거킹"}
+,{"category": "P" ,"menuName" : "메로미소구이", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "치킨킹BLT세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "비프불고기버거세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "비프&슈림프버거세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "통새우슈림프버거세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "슈림프버거세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "롱치킨버거세트", "by" : "버거킹"}
+,{"category": "P" ,"menuName" : "모츠나베(일본식대창전골)", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "바비큐치킨버거세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "치킨버거세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "치즈버거세트", "by" : "버거킹"}
@@ -35,6 +42,7 @@
 ,{"category": "B" ,"menuName" : "너겟킹", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "21치즈스틱", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "어니언링", "by" : "버거킹"}
+,{"category": "P" ,"menuName" : "슈토(주도 참치내장젓갈)크림치즈", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "바삭킹", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "쉐이킹프라이구운갈릭", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "쉐이킹프라이매콤치즈", "by" : "버거킹"}
@@ -45,6 +53,7 @@
 ,{"category": "B" ,"menuName" : "코울슬로", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "콘샐러드", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "패밀리팩", "by" : "롯데리아"}
+,{"category": "P" ,"menuName" : "저염백명란구이", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "더블팩", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "투게더_팩", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "새우베이컨세트", "by" : "롯데리아"}
@@ -58,6 +67,7 @@
 ,{"category": "B" ,"menuName" : "빅불세트", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "더블리아미라클2세트", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "DoubleX2세트", "by" : "롯데리아"}
+,{"category": "P" ,"menuName" : "에다마메(풋콩)", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "핫크리스피버거세트", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "사각새우더블세트", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "리아미라클2세트", "by" : "롯데리아"}
@@ -67,6 +77,7 @@
 ,{"category": "B" ,"menuName" : "T REX세트", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "치킨버거세트", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "데리세트", "by" : "롯데리아"}
+,{"category": "P" ,"menuName" : "시소구라게", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "치킨풀팩", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "순살치킨풀팩", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "치킨패밀리팩", "by" : "롯데리아"}
@@ -75,14 +86,16 @@
 ,{"category": "B" ,"menuName" : "화이어윙", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "치킨휠레", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "치킨1조각(부위랜덤)", "by" : "롯데리아"}
+,{"category": "P" ,"menuName" : "와사비사라다(멘다이꼬)", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "깡돼후돼지후라이드콤보", "by" : "롯데리아"}
-,{"category": "B" ,"menuName" : "깡돼후돼지후라이드", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "지파이", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "쉑쉑치킨", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "통오징어링", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "치킨너겟", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "치즈스틱", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "양념감자", "by" : "롯데리아"}
+,{"category": "P" ,"menuName" : "숙성모둠사시미", "by" : "이자카야"}
+,{"category": "P" ,"menuName" : "이자카야오뎅탕", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "모짜크림치즈볼", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "포테이토", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "웨지포테이토", "by" : "롯데리아"}
@@ -93,12 +106,15 @@
 ,{"category": "B" ,"menuName" : "토네이도스트로베리", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "토네이도스허쉬초코", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "더블비프미트칠리버거세트", "by" : "맥도날드"}
+,{"category": "P" ,"menuName" : "모츠나베", "by" : "이자카야"}
+,{"category": "P" ,"menuName" : "모찌리도후", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "미트칠리BLT버거세트", "by" : "맥도날드"}
 ,{"category": "B" ,"menuName" : "맥크리스피디럭스버거세트", "by" : "맥도날드"}
 ,{"category": "B" ,"menuName" : "맥크리스피클래식버거세트", "by" : "맥도날드"}
 ,{"category": "B" ,"menuName" : "트리플치즈버거세트", "by" : "맥도날드"}
 ,{"category": "B" ,"menuName" : "슈비버거세트", "by" : "맥도날드"}
 ,{"category": "B" ,"menuName" : "슈슈버거세트", "by" : "맥도날드"}
+,{"category": "P" ,"menuName" : "모찌리도후", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "1955버거세트", "by" : "맥도날드"}
 ,{"category": "B" ,"menuName" : "맥치킨세트", "by" : "맥도날드"}
 ,{"category": "B" ,"menuName" : "맥치킨모짜렐라세트", "by" : "맥도날드"}
@@ -152,6 +168,9 @@
 ,{"category": "B" ,"menuName" : "해쉬브라운", "by" : "밀리언버거"}
 ,{"category": "B" ,"menuName" : "통다리치킨", "by" : "밀리언버거"}
 ,{"category": "B" ,"menuName" : "프랭크버거세트", "by" : "프랭크버거"}
+,{"category": "B" ,"menuName" : "오뎅나베", "by" : "이자카야"}
+,{"category": "B" ,"menuName" : "모찌리도후", "by" : "이자카야"}
+,{"category": "B" ,"menuName" : "타코와사비", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "핫빅불고기버거세트", "by" : "프랭크버거"}
 ,{"category": "B" ,"menuName" : "쉬림프버거세트", "by" : "프랭크버거"}
 ,{"category": "B" ,"menuName" : "카츠버거세트", "by" : "프랭크버거"}
@@ -159,6 +178,8 @@
 ,{"category": "B" ,"menuName" : "크리스피치킨버거세트", "by" : "프랭크버거"}
 ,{"category": "B" ,"menuName" : "베이컨치킨버거세트", "by" : "프랭크버거"}
 ,{"category": "B" ,"menuName" : "베이컨치즈버거세트", "by" : "프랭크버거"}
+,{"category": "K" ,"menuName" : "교자만두", "by" : "강남교자"}
+,{"category": "K" ,"menuName" : "칼국수", "by" : "강남교자"}
 ,{"category": "B" ,"menuName" : "더블비프치즈버거세트", "by" : "프랭크버거"}
 ,{"category": "B" ,"menuName" : "비프앤쉬림프버거세트", "by" : "프랭크버거"}
 ,{"category": "B" ,"menuName" : "비프앤카츠버거세트", "by" : "프랭크버거"}
@@ -171,6 +192,10 @@
 ,{"category": "B" ,"menuName" : "스파이시텐더", "by" : "프랭크버거"}
 ,{"category": "B" ,"menuName" : "치즈프렌치프라이", "by" : "프랭크버거"}
 ,{"category": "B" ,"menuName" : "게다리살튀김", "by" : "프랭크버거"}
+,{"category": "K" ,"menuName" : "칼국수", "by" : "명동교자"}
+,{"category": "K" ,"menuName" : "만두", "by" : "명동교자"}
+,{"category": "K" ,"menuName" : "비빔국수", "by" : "명동교자"}
+,{"category": "K" ,"menuName" : "콩국수", "by" : "명동교자"}
 ,{"category": "B" ,"menuName" : "오징어링", "by" : "프랭크버거"}
 ,{"category": "B" ,"menuName" : "통가슴살후라이드", "by" : "프랭크버거"}
 ,{"category": "B" ,"menuName" : "맥스치킨봉", "by" : "프랭크버거"}
@@ -183,6 +208,9 @@
 ,{"category": "B" ,"menuName" : "메가바이트버거세트", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "짜장팝싱글팩", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "짜계치팝싱글팩", "by" : "노브랜드버거"}
+,{"category": "K" ,"menuName" : "얼큰칼국수", "by" : "강남교자"}
+,{"category": "K" ,"menuName" : "얼큰수제비", "by" : "강남교자"}
+,{"category": "K" ,"menuName" : "닭개장", "by" : "강남교자"}
 ,{"category": "B" ,"menuName" : "레드시그니처팩", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "시그니처투게더팩", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "시그니처파티팩", "by" : "노브랜드버거"}
@@ -193,6 +221,8 @@
 ,{"category": "B" ,"menuName" : "NBB어메이징버거세트", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "더블치즈베이컨시그니처버거세트", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "메가바이트버거세트", "by" : "노브랜드버거"}
+,{"category": "K" ,"menuName" : "떡만둣국", "by" : "강남교자"}
+,{"category": "K" ,"menuName" : "비빔국수", "by" : "강남교자"}
 ,{"category": "B" ,"menuName" : "스리라차치킨버거세트", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "코울슬로치킨버거세트", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "NBB시그니처버거세트", "by" : "노브랜드버거"}
@@ -207,6 +237,10 @@
 ,{"category": "B" ,"menuName" : "크리스피너겟", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "크런치윙", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "베러샐러드콤보", "by" : "노브랜드버거"}
+,{"category": "K" ,"menuName" : "만두전골", "by" : "강남교자"}
+,{"category": "K" ,"menuName" : "버섯닭매운탕", "by" : "강남교자"}
+,{"category": "K" ,"menuName" : "초계국수", "by" : "강남교자"}
+,{"category": "K" ,"menuName" : "강남샤브샤브", "by" : "강남교자"}
 ,{"category": "B" ,"menuName" : "베러샐러드", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "시저치킨샐러드콤보", "by" : "노브랜드버거"}
 ,{"category": "B" ,"menuName" : "상하이포크샐러드콤보", "by" : "노브랜드버거"}
@@ -362,6 +396,9 @@
 ,{"category": "S" ,"menuName" : "모둠튀김", "by" : "동대문엽기떡볶이"}
 ,{"category": "S" ,"menuName" : "김말이", "by" : "동대문엽기떡볶이"}
 ,{"category": "S" ,"menuName" : "야채튀김", "by" : "동대문엽기떡볶이"}
+,{"category": "K" ,"menuName" : "완당떡국", "by" : "강남교자"}
+,{"category": "K" ,"menuName" : "교자만두", "by" : "강남교자"}
+,{"category": "K" ,"menuName" : "떡갈비", "by" : "강남교자"}
 ,{"category": "S" ,"menuName" : "만두", "by" : "동대문엽기떡볶이"}
 ,{"category": "S" ,"menuName" : "엽봉", "by" : "동대문엽기떡볶이"}
 ,{"category": "S" ,"menuName" : "바삭치즈만두", "by" : "동대문엽기떡볶이"}
@@ -965,4 +1002,5 @@
 ,{"category": "A" ,"menuName" : "짜조", "by" : "아시안"}
 ,{"category": "A" ,"menuName" : "만까이텃", "by" : "아시안"}
 ,{"category": "A" ,"menuName" : "춘권", "by" : "아시안"}
+,{"category": "O" ,"menuName" : "다이어트 당첨!", "by" : "살 빼는 날"}
 ]
