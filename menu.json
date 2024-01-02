@@ -33,13 +33,18 @@
 ,{"category": "B" ,"menuName" : "비프&슈림프버거세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "통새우슈림프버거세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "슈림프버거세트", "by" : "버거킹"}
+,{"category": "K" ,"menuName" : "과메기", "by" : "한식"}
 ,{"category": "B" ,"menuName" : "롱치킨버거세트", "by" : "버거킹"}
 ,{"category": "P" ,"menuName" : "모츠나베(일본식대창전골)", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "바비큐치킨버거세트", "by" : "버거킹"}
+,{"category": "K" ,"menuName" : "장어구이", "by" : "한식"}
+,{"category": "K" ,"menuName" : "숯불돼지갈비", "by" : "한식"}
 ,{"category": "B" ,"menuName" : "치킨버거세트", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "치즈버거세트", "by" : "버거킹"}
+,{"category": "K" ,"menuName" : "양념돼지갈비", "by" : "한식"}
 ,{"category": "B" ,"menuName" : "해쉬브라운", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "너겟킹", "by" : "버거킹"}
+,{"category": "K" ,"menuName" : "소불고기", "by" : "한식"}
 ,{"category": "B" ,"menuName" : "21치즈스틱", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "어니언링", "by" : "버거킹"}
 ,{"category": "P" ,"menuName" : "슈토(주도 참치내장젓갈)크림치즈", "by" : "이자카야"}
@@ -49,10 +54,13 @@
 ,{"category": "B" ,"menuName" : "쉐이킹프라이스윗어니언", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "크리미모짜볼", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "코코넛슈림프", "by" : "버거킹"}
+,{"category": "K" ,"menuName" : "양념게장", "by" : "한식"}
+,{"category": "K" ,"menuName" : "간장게장", "by" : "한식"}
 ,{"category": "B" ,"menuName" : "프렌치프라이", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "코울슬로", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "콘샐러드", "by" : "버거킹"}
 ,{"category": "B" ,"menuName" : "패밀리팩", "by" : "롯데리아"}
+,{"category": "K" ,"menuName" : "물갈비", "by" : "한식"}
 ,{"category": "P" ,"menuName" : "저염백명란구이", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "더블팩", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "투게더_팩", "by" : "롯데리아"}
@@ -75,14 +83,19 @@
 ,{"category": "B" ,"menuName" : "불고기버거세트", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "새우버거세트", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "T REX세트", "by" : "롯데리아"}
+,{"category": "K" ,"menuName" : "부대찌개", "by" : "한식"}
+,{"category": "K" ,"menuName" : "육회", "by" : "한식"}
 ,{"category": "B" ,"menuName" : "치킨버거세트", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "데리세트", "by" : "롯데리아"}
 ,{"category": "P" ,"menuName" : "시소구라게", "by" : "이자카야"}
+,{"category": "K" ,"menuName" : "유가네닭갈비", "by" : "유가네"}
 ,{"category": "B" ,"menuName" : "치킨풀팩", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "순살치킨풀팩", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "치킨패밀리팩", "by" : "롯데리아"}
+,{"category": "K" ,"menuName" : "생굴", "by" : "한식"}
 ,{"category": "B" ,"menuName" : "치킨하프", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "순살치킨하프팩", "by" : "롯데리아"}
+,{"category": "K" ,"menuName" : "모둠전", "by" : "한식"}
 ,{"category": "B" ,"menuName" : "화이어윙", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "치킨휠레", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "치킨1조각(부위랜덤)", "by" : "롯데리아"}
@@ -94,6 +107,8 @@
 ,{"category": "B" ,"menuName" : "치킨너겟", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "치즈스틱", "by" : "롯데리아"}
 ,{"category": "B" ,"menuName" : "양념감자", "by" : "롯데리아"}
+,{"category": "D" ,"menuName" : "홍게", "by" : "기타"}
+,{"category": "K" ,"menuName" : "꽃게탕", "by" : "한식"}
 ,{"category": "P" ,"menuName" : "숙성모둠사시미", "by" : "이자카야"}
 ,{"category": "P" ,"menuName" : "이자카야오뎅탕", "by" : "이자카야"}
 ,{"category": "B" ,"menuName" : "모짜크림치즈볼", "by" : "롯데리아"}
