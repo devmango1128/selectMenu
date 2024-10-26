@@ -1,5 +1,6 @@
 let SELECT_MENU = {
    menuData : null,
+   selectMenu : '',
    fn_select_menu : function() {
 
       const _this = this;
@@ -15,11 +16,14 @@ let SELECT_MENU = {
             _this.menuData = response;
 
             const menu = _this.extractRandomData(_this.menuData);
-            document.getElementById('menu').innerText = menu.menuName;
+            document.getElementById('menu').innerHTML = menu.menuName;
+            _this.selectMenu = menu.menuName;
 
             if(menu.by !== '') {
                document.getElementById('by').innerText = 'by ' + menu.by;
             } else document.getElementById('by').innerText = '';
+
+            document.getElementById('share_btn').style.display = 'flex';
 
          } else {
             console.error('Error:', xhr.status);
@@ -36,5 +40,26 @@ let SELECT_MENU = {
    extractRandomData : function (data) {
       let randomIndex = Math.floor(Math.random() * data.length);
       return data[randomIndex];
+   },
+   //공유하기
+   fn_menu_share : async function () {
+      const _this = this;
+
+      if (navigator.share) {
+         try {
+            await navigator.share({
+               title: '오늘은 뭐 먹지?',
+               text: `우리 [${_this.selectMenu}] 같이 먹을래?`,
+               url: 'https://play.google.com/store/apps/details?id=com.selectmenu.devmango1128&pcampaignid=web_share'
+            });
+            console.log('공유 성공!');
+         } catch (error) {
+            console.error('공유 실패:', error);
+         }
+      } else if (window.Android) {
+         await window.Android.share('오늘은 뭐 먹지?', `우리 [${_this.selectMenu}] 같이 먹을래?`, 'https://play.google.com/store/apps/details?id=com.selectmenu.devmango1128&pcampaignid=web_share');
+      } else {
+         alert('이 브라우저는 추천기능을 지원하지 않습니다.');
+      }
    }
 }
