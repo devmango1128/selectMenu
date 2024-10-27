@@ -48,8 +48,8 @@ let SELECT_MENU = {
       if (navigator.share) {
          try {
             await navigator.share({
-               title: '오늘은 뭐 먹지?',
-               text: `\n우리 [${_this.selectMenu}] 같이 먹을래?`,
+               title: '오늘은 뭐 먹지?\n',
+               text: `\n우리 [${_this.selectMenu}] 같이 먹을래?\n`,
                url: '\nhttps://play.google.com/store/apps/details?id=com.selectmenu.devmango1128&pcampaignid=web_share'
             });
             console.log('공유 성공!');
@@ -57,7 +57,7 @@ let SELECT_MENU = {
             console.error('공유 실패:', error);
          }
       } else if (window.Android) {
-         await window.Android.share('오늘은 뭐 먹지?', `\n우리 [${_this.selectMenu}] 같이 먹을래?`, '\nhttps://play.google.com/store/apps/details?id=com.selectmenu.devmango1128&pcampaignid=web_share');
+         await window.Android.share('오늘은 뭐 먹지?\n', `\n우리 [${_this.selectMenu}] 같이 먹을래?\n`, '\nhttps://play.google.com/store/apps/details?id=com.selectmenu.devmango1128&pcampaignid=web_share');
       } else {
          alert('이 브라우저는 추천기능을 지원하지 않습니다.');
       }
