@@ -11,19 +11,30 @@
 </head>
 <body>
     <div id="container">
-        <header class="title">
+        <div class="main_before" id="main_before">
             오늘은 뭐 먹지?
-        </header>
-        <div class="content">
-            <div class="menu" id="menu"></div>
-            <div class="by" id="by"></div>
-            <div class="btn_white_m" id="start_btn" onclick="SELECT_MENU.fn_select_menu()">골라줘!!</div>
-            <div class="btn_share" id="share_btn" onclick="SELECT_MENU.fn_menu_share()">
-                <img src="src/images/share_icon.png" alt=""/>
-                <span>메뉴 공유</span>
+        </div>
+        <div class="main_after" id="main_after">
+            <header class="title">
+                오늘은 뭐 먹지?
+            </header>
+            <div class="content">
+                <div class="menu" id="menu"></div>
+                <div class="by" id="by"></div>
+                <div class="btn_white_m" id="start_btn" onclick="SELECT_MENU.fn_select_menu()">골라줘!!</div>
+                <div class="btn_share" id="share_btn" onclick="SELECT_MENU.fn_menu_share()">
+                    <img src="src/images/share_icon.png" alt=""/>
+                    <span>메뉴 공유</span>
+                </div>
             </div>
         </div>
     </div>
 </body>
 <script src="src/js/common.js"></script>
 </html>
+<script type="text/javascript">
+    setTimeout(() => {
+        document.getElementById('main_after').style.display = 'inline-block';
+        document.getElementById('main_before').style.display = 'none';
+    }, 3000);
+</script>
